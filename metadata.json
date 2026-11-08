@@ -1,0 +1,6 @@
+{
+  "name": "QuizCraft Pro",
+  "description": "Timed assessment and quiz management platform with auto-submit, single registration per mobile number, MCQ and short answer questions, score analysis, and downloadable admin reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
